@@ -7,8 +7,8 @@ Original file is located at
     https://colab.research.google.com/drive/1QUa68Y2xg59bkvxL02CAeHUPC357dKQj
 """
 
-num1=print('Enter Frirst Number')
-num2=print('Enter Second Number')
+num1=input('Enter Frirst Number')
+num2=input('Enter Second Number')
 
 def Add(num1,num2):
  return num1 + num2
